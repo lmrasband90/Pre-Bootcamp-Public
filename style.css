@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    background-color: gray;
+    padding: 20px;
+}
+
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 20px;
+}
+
+#row1 {
+    background-color: blue;
+}
+
+#row2 {
+    background-color: pink;
+    justify-content: center;
+
+}
+
+#row3 {
+    background-color: green;
+}
+
+img {
+    height: 200px;
+}
+
+\
